@@ -1,0 +1,5 @@
+執行input.py會讀取input.zip檔案並輸出output.mp4
+執行output.py會讀取output.mp4並輸出output.zip
+
+project.py是所有原代碼
+demo會分成input & output講解
